@@ -1,0 +1,105 @@
+P2P Accounting for Planetary Survival
+
+Towards a P2P Infrastructure for a Socially-Just Circular Society
+How shared perma-circular supply chains, post-blockchain distributed ledgers, protocol cooperatives, and three new forms of post-capitalist accounting, could very well save the planet.
+
+By Michel Bauwens and Alex Pazaitis
+
+A joint publication between the P2P Foundation, Guerrilla Foundation and Schoepflin Foundation.
+Credits
+Written by: Michel Bauwens and Alex Pazaitis
+Foreword: Kate Raworth
+Editor: Stacco Troncoso
+Project coordination: Stacco Troncoso, Alex Pazaitis
+Copyediting and proofreading: Susa Oñate (Guerrilla Media Collective)
+Design: Mireia Juan Cucó, developing on designs by Elena Martínez Vicente (Guerrilla Media Collective)
+Image Credits
+
+Cover: Nullfy 
+Chapter 1: Nullfy   
+The Seven Tendencies of blockchain Technology: Wikimedia Commons
+Chapter 2: Nullfy 
+Chapter 3: Nullfy 
+Back cover: Nullfy 
+
+All other images sourced from Unsplash.com
+
+Logos for projects sourced from their respective websites, with the exception of:
+
+    • Fabchain: https://fablabbcn.org/news/2018/07/16/fab14.html
+    • Resources Events Agents: https://mikorizal.org/
+    • Ostron Contracts: https://medium.com/@daviddao/decentralized-sustainability-9a53223d3001
+    • Musiasaem: https://magic-nexus.eu/tags/musiasem
+
+
+
+Contents
+
+Foreword by Kate Raworth
+Executive Summary
+Chapter 1: The Background to this Study
+The P2P Foundation’s study of the commons and the commons transition
+Value in the Commons
+The emerging crypto economy as a signpost for the cosmo-local transition
+Our Vision
+Chapter 2: Tools and technologies for integrated, fair, and sustainable ecosystems of production
+Introduction
+Tools for Mutual Integration
+Economic Space Agency (ECSA): An environment for interconnected economic spaces and commons-based Distributed Programmable Organizations
+Holochain: An alternative to a global distributed ledger, based on biomimicry
+DAOstack: Integrated mechanisms for large-scale governance
+Tools for Circulation and Exchange
+FairCoin and FairCoop: Tools for a cosmo-local, open cooperative ecosystem
+Trustlines: Mutual credit for common good
+Circles: A decentralized basic income
+Envienta: An integrated environment for open-source manufacturing
+FabChain: Linking advanced research to urban metabolisms and mainstream production and manufacturing
+Terra0: Giving DAO agency to natural resources
+Sustans: Replacing Smart Contracts with Ostrom Contracts
+Chapter 3: Evolution of Accounting
+New Accounting and Planning Frameworks
+Guerrilla Translation: Multi-flow accounting for commons-based, open-value cooperativism
+Resources - Events - Agents (REA): An accounting system for networked cooperation and shared supply chains
+Reporting 3.0: Direct access to a representation of matter and energy flows in interconnected supply chains
+MuSIASEM: Accounting for material/energy flows and their limits
+Accounting for Impact and Externalities
+Regen Network: ‘Ecological state protocols’ to verify advances in sustainability and regenerativity
+The Common Good Accounting System: Competing for positive impact
+Multi-layer integration: How the new technologies fit together
+Production for social needs within planetary boundaries
+Acknowledgments
+Bibliography
+
+
+Foreword by Kate Raworth
+Eurostar: 10.52 am, Brussels to London. I’m standing in line for passport control and I spot a familiar face in front of me: it’s Michel Bauwens! He’s clearly surprised to hear his name called from just behind him in the queue, but his surprise quickly turns into our mutual delight on realizing that we’ll get to have an all-too-rare chance to catch up.
+We meet up in the train’s dining carriage where, travelling at 150 miles an hour under the English Channel, Michel tells me about his summer writing project. He’s only a few moments into describing it and I have to pull out my notebook and start jotting things down because, in typical Michel fashion, he is coming out with intriguing phrases that I have never heard before but that have instant appeal. Cosmo-local production. Labour mutuals. The thermodynamics of peer production.
+This resulting report, written over the last year by Michel, Alex Pazaitis, and a team of contributors, brings those ideas together with many more to envision the commons at the heart of a 21st-century economy designed to deliver social and ecological health. In its ambitious vision, this report combines a long-standing commitment to commons-based peer production with a new, globally localized approach to the circular economy and, in the process, redesigns distributed ledger technology (think: beyond blockchain) in order to make it feasible.
+So leave behind today’s widespread obsession with smart contracts, platform capitalism and economies of scale: these only serve to reinforce last century’s dominant and extractive modes of production. Instead, dive into this report and discover the possibilities of Ostrom contracts, platform cooperativism and economies of scope. These ideas are the seeds of a generative commons-based economy that is fit for the 21st century’s social and ecological challenges. 
+If you want to flip your economic mind, and leap to the cutting edge of commons-based thinking, simply read on.
+ 
+Executive Summary
+
+How to read this report: If you are not an expert but interested in future infrastructures, then chapter 1 is the most readable ‘visionary’ chapter, which will give you the broad background about what we want to achieve with this report. Chapters 2 and 3 are aimed for the more motivated experts who are specifically interested in a number of technical tools that are becoming available to enable this vision. Each of these chapters also has its own contextual introduction, which might be useful for the less technical reader.
+The key issue addressed in this study is how to change a system which incentivizes and rewards extraction — but cannot recognize and reward the wealth created by generative activities — towards a system which is able to reward and incentivize generative practices.
+This report is based on the understanding that one of the main weaknesses of the current political economy is its inability to recognize and deal with ‘externalities’, in regards to costs and benefits received or caused by economic actors that are not accounted or paid for. Under capitalism, a firm becomes competitive in large part because of its ability, and that of the system as a whole, to not ‘pay’ for positive social and environmental contributions, and to leave the reparations of social and environmental damages to other actors, that is, mainly the citizenry or the state. There is no structural solution to fund (re)generative activities except mostly ‘after the fact’ or through ‘regulations’ that are imposed ‘from the outside,’ by the coercive force of the state. This report looks at efforts underway, even in prototypal and experimental forms, to remedy this situation, that is, to have a productive systems that can fulfill human needs without violating external boundaries, pretty much like Kate Raworth has explained it in her book Doughnut Economics. These solutions would be located much more ‘internally,’ within the system of production itself. This way of thinking is analogous to thinking about more socially just ‘predistribution’ of wealth, rather than mere ‘redistribution.’ These solutions would not replace external regulation, which still has a role, but rather complement it.
+We believe that a significant number of these necessary ingredients for such a structural change are available through some of the emerging techno-social systems that are co-evolving with distributed networks. 
+The first structural element is shared supply chains for a perma-circular economy. At the P2P Foundation, we believe a circular economy cannot be achieved without sharing the logistical knowledge that is presently locked up in the walled gardens of private logistics. Only by sharing each other’s input and output can partners in an open ecosystem adapt towards a real circular economy. In this report, we pay some attention to a shift towards ecosystemic collaboration, but without going into the details of supply chains themselves. The concept of ‘perma-circularity’ refers to the necessity for the growth of our material and energy usage to remain under one percent a year, in order to avoid the exponential increase in resources we need from our planet.
+We do pay attention to a number of technologies that will allow us to shift towards ecosystems of collaboration, specifically open and shared distributed ledgers, mostly coming from the so-called ‘blockchain’ space of technical development. But we focus in part on ‘post-blockchain’ developments, which avoid a number of systemic problems associated with the first generation of blockchain technologies, for example, issues of scaling, exponential energy usage, etc. Protocol cooperatives are global open source repositories of knowledge, code and design, that allow humanity to create infrastructures for the mutualization of the main provisioning systems (such as food, habitat, mobility), and that are governed by the various stakeholders involved, including the affected citizenry.
+With distributed ledgers, three new forms of collaborative accounting can be introduced, which will allow economic actors to manage their production while recognizing positive and negative social and ecological externalities. 1) Contributive accounting, which we discussed in our previous report. 2) Values in the Commons Economy, allows for the recognition of all types of contributions, not just waged labor. 3) REA accounting, i.e., accounting for Resources, Events, Agents, allows actors to see their transactions as part of an ecosystem of collaboration, which is ‘flow accounting’ rather than a vision based on the accumulation of assets in a single firm. Finally, we need direct access to the real ‘thermodynamic flows’ necessitated by production, in other words, the amounts of matter and energy needed, in the context of planetary boundaries.
+Chapter 1 of this report is a summary of ten years of research at the P2P Foundation (including that carried out by our own P2P Lab but also by our partners in common research programs) of what we know today about the emerging commons economy. It includes a basic account of why the ‘invention’ of the blockchain has been important, but stresses that the distributed ledgers needed may take other forms in the future. This section may not offer a lot of new elements for those that are already technologically savvy about the topic, but it does present a critical engagement with the qualities and flaws of the current model, and suggests how it can be tweaked and transformed to also serve as a basis for a post-capitalist, commons-centric economy.
+Chapter 2 of this report goes into the details of various technological projects that could be used as tools to develop ecosystems of collaborations, based on distributed ledgers. Our objective here is to show that solutions are being worked on, but remain fragmented to date, so our aim is to demonstrate that an alignment in a higher integration would lead to significant advances towards sustainable production.
+Finally, chapter 3 focuses on the accounting innovations that we will need, and which will need to be integrated in the new practices based on shared supply chains using shared ledgers. This includes, as explained above, tools for contributive, flow-based, and thermodynamic accounting.
+This report focuses not on the innovations within mainstream industrial players striving towards more sustainability, but on seed forms that, by not having legacy systems to deal with are better able to reorganize themselves in direct harmony with the possibilities offered by the new tools reflecting the new paradigm. Of course, this means they have fewer resources, but they offer more clear pointers to a possible future. 
+The aim of this report is therefore to encourage open-mindedness towards new possibilities of integration so that we can transition to a regenerative economy, and to show that emerging tools are available to implement these necessary changes.
+
+
+
+"The moment we stop optimizing the digital economy for the growth of capital and instead optimize it for the circulation of value between people, everything will start to get better really fast."
+- Douglas Rushkoff 1
+
+"In the next economic system, “value” will mean the health of the planet, not numbers on a balance sheet."
+- John Thackara
+
+"What’s going on today is more than a few accounting oversights here and there. The distance between today’s industrial systems and truly sustainable industrial systems — systems that do not spend down stored natural capital but instead integrate into current energy and material flows — is not one of degree, but one of kind. What’s needed is not just better accounting, but a new global industrial system, a new way of providing for human wellbeing, and fast."
+- David Roberts 2
