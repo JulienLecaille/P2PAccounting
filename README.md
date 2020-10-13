@@ -1,7 +1,7 @@
 # Bienvenue dans cette traduction collaborative
 
 
-[Introduction](../blob/VF/Introduction-VF.md)
+[Introduction](../VF/Introduction-VF.md)
 
 
 
