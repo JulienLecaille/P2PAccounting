@@ -2,6 +2,8 @@
 
 
 [Introduction](../VF/Introduction-VF.md)
+[Introduction](../Introduction-VF.md)
+[Introduction](Introduction-VF.md)
 
 [Chapitre 1](../VF/Chapitre1-VF.md)
 
