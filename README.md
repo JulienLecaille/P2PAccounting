@@ -1,4 +1,4 @@
-# Bienvenue dans cette traduction collaborative
+# Comptabilité Pair à Pair pour la survie sur la planète
 
 
 [Introduction](../VF/Introduction-VF.md)
