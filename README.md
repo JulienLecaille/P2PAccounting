@@ -14,7 +14,7 @@
 
 [Appendice 2](Appendice2-VF.md)
 
-[Bibliographie](../VF/Bibliographie-VF.md)
+[Bibliographie](Bibliographie-VF.md)
 
 
 
