@@ -1,6 +1,7 @@
 # Comptabilité Pair à Pair pour la survie sur la planète
 
 
+Une traduction collaborative d'un rapport de la P2P Foundation
 
 [Introduction](Introduction-VF.md)
 
