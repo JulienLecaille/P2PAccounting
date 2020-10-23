@@ -16,7 +16,7 @@ L'outil de travail est Github, l'édition des textes en Markdown sur la branche 
 Pour collaborer, en cas de difficulté technique contacter julien.lecaille@gmail.com
 
 
-##TABLE DES MATIERES
+## TABLE DES MATIERES
 
 [Introduction](Introduction-VF.md)
 
