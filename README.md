@@ -1,7 +1,7 @@
 # Comptabilité Pair à Pair pour la survie sur la planète
 
 
-Une traduction collaborative d'un rapport de la P2P Foundation
+Une traduction collaborative d'un [rapport de la P2P Foundation](https://commonstransition.org/p2p-accounting-for-planetary-survival/)
 
 
 
